@@ -1,4 +1,5 @@
 export function cookies() {
+    
     const $content = document.querySelector('.cookies'),
      $accept = document.querySelector('.accept_cookies');
     
